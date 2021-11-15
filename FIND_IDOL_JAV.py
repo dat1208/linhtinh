@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+#cài 2 thư viện trên
 def get_name():
     name = input("Nhập tên diễn viên:")
     return name
